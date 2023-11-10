@@ -5,7 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 #from routers import auth
 
-app = FastAPI()
+app = FastAPI() 
 
 # 라우터 등록
 # app.include_router(auth.router)
